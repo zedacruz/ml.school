@@ -135,3 +135,6 @@ penguins/*.py
 penguins/code/
 penguins/datasets/*
 mnist/dataset/
+
+mlflow/mlruns/*
+mlflow/metadata/*
