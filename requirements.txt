@@ -1,6 +1,7 @@
 numpy
 pandas
 matplotlib
+comet_ml
 scikit-learn
 python-dotenv
 ipytest
@@ -13,4 +14,3 @@ nbdev
 nbclient
 ipykernel
 Flask
-comet_ml
