@@ -6,6 +6,7 @@ scikit-learn
 python-dotenv
 ipytest
 tensorflow==2.14
+torch
 sagemaker
 sagemaker[local]
 ruff
