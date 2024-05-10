@@ -1,6 +1,7 @@
 numpy
 pandas
 matplotlib
+seaborn
 comet_ml
 scikit-learn
 python-dotenv
