@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+comet_ml
+scikit-learn
+python-dotenv
+ipytest
+tensorflow==2.14
+nbformat
+nbdev
+nbclient
+ipykernel
+Flask
